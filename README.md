@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Doozer62
-- 👀 I’m interested in верстка
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in frontend dev
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
